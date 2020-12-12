@@ -1,0 +1,32 @@
+.primerparagraf {
+    background-color: white;
+    text-align: center;
+    width: 670px;
+    margin-left: 620px;
+}
+
+.segon {
+    background-color: white;
+    text-align: center;
+    width: 730px;
+    margin-left: 580px;
+}
+
+h1 {
+    margin-left: 740px;
+}
+
+.segontitol {
+    margin-left: 840px;
+    background-color: white;
+    width: 200px;
+}
+
+.titol {
+    background-color: white;
+    width: 400px;
+}
+
+iframe {
+    margin-left: 460px;
+}

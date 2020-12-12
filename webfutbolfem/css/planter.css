@@ -1,0 +1,15 @@
+table {
+    background-image: url('../img/cesped.jpg');
+    margin-left: 650px;
+}
+
+td {
+    background-color: white;
+    color: black;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    margin-left: 750px;
+}

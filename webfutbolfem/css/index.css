@@ -1,0 +1,33 @@
+.info_general > a > button{
+    background-color: black;
+    color: white;
+}
+
+.planter > a > button {
+    background-color: black;
+    color: yellow;
+}
+
+.submenu {
+    width: fit-content;
+    height: 200px;
+    margin-left: 300px;
+}
+
+iframe {
+    height: 500px;
+    width: 1000px; 
+    position: absolute; 
+    left: 250px; 
+    top: 250px;
+    margin-left: 300px;
+}
+
+.imatgelevantelogo {
+    height: 300px; 
+    width: 215px;
+    margin-left: 300px; 
+}
+
+
+

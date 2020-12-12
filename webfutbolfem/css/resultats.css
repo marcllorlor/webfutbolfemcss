@@ -1,0 +1,28 @@
+body {
+    color: blue;
+}
+
+table {
+    border-color: red;
+    border-style: solid;
+    text-align: center;
+    align-items: center;
+    margin-left: 34%;
+    background-color: white;
+}
+h2 {
+    color: green;
+}
+
+h1 {
+    color: white;
+    margin-left: 630px;
+}
+
+img:hover {
+    box-shadow: 1px 1px 1px 1px red;
+}
+
+.taula2 {
+    padding-left: 30px;
+}

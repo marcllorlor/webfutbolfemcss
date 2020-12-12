@@ -1,0 +1,45 @@
+.menu_navegacio > a > button {
+    background: black;
+    color: yellow;
+    text-transform: none;
+    width: 100%;
+}
+
+.menu_contacte {
+    margin-top: 100px; 
+    background-color: black;
+    height: 275px; 
+    width: 100%; 
+    text-align: center; 
+    color: white;
+}
+
+.menu_contacte > a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    cursor: pointer;
+}
+
+body {
+    background-image: url(../img/cesped.jpg);
+    margin: 0;
+}
+
+.colordefons {
+    background-color: green;
+    width: 100%;
+    height: 150px;
+    position: static;
+    margin-top: -150px;
+}
+
+.imatgeiberdrola {
+    width: 1200px; 
+    height: 150px;
+    margin-left: 330px;
+}
+
+

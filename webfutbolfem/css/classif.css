@@ -1,0 +1,14 @@
+table {
+    border-color: red;
+    border-style: solid;
+    text-align: center;
+    align-items: center;
+    margin-left: 36%;
+    background-color: white;
+    color: blue;
+}
+
+h1 {
+    color: black;
+    background-color: white;
+}
